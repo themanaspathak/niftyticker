@@ -1,0 +1,16 @@
+{
+  "name": "nifty-stock-api",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "dependencies": {
+    "yahoo-finance2": "^2.13.3"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
